@@ -49,8 +49,8 @@
     text-decoration: none;
     font-weight: 500;
 }
-.navbar , .banner{
-    max-width:1440px ;
+.navbar, .banner{
+    max-width:1440px;
     margin: 0 auto;
 }
 /* banner content related style */
@@ -71,7 +71,7 @@
 /* responsive media Query */
 
 @media screen and (max-width: 576px) {
-    .navbar , .nav-links {
+    .navbar, .nav-links {
         flex-direction: column;
     }
 }
